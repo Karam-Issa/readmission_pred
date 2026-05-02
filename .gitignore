@@ -3,7 +3,7 @@ venv/
 
 # Data files (too large for GitHub)
 data/raw/
-data/processed/
+
 
 # Trained models
 models/
