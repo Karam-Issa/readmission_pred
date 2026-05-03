@@ -46,7 +46,7 @@ readmission_predictor/
 ### 1. Clone and set up environment
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/readmission-predictor.git
+git clone https://github.com/Karam-Issa/readmission-predictor.git
 cd readmission-predictor
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
